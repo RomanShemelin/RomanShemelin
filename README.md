@@ -2,7 +2,6 @@
 <h3 align="center">Fullstack developer from Saint Petersburg</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanshemelin&label=Profile%20views&color=0e75b6&style=flat" alt="romanshemelin" /> </p>
 
 <h3 align="left">Connect with me: t.me/RomanShemelin</h3>
 <p align="left">

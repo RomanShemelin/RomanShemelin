@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Shemelin</h1>
-<h3 align="center">Fullstack developer from Saint Petersburg</h3>
+<h3 align="center">Frontend developer from Saint Petersburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanshemelin&label=Profile%20views&color=0e75b6&style=flat" alt="romanshemelin" /> </p>
 
